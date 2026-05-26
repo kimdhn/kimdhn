@@ -1,6 +1,6 @@
 ## Kim Dohoon
 - Integrated M.S. & Ph.D Student, Graduate School of Data Science, Seoul National University (2026.03 – )   
-  - Supervisor: *Prof. Jay-Yoon Lee*
+  - Advisor: *Prof. Jay-Yoon Lee*
 
 * B.S. in Data Science & Biomedical Engineering, Hanyang University, Seoul (2022.03 – 2026.02)
 
